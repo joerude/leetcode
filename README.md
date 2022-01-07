@@ -1,7 +1,4 @@
-# leetcode and codewars problems
 
-
-
-# run pip  *install codewars-test-teey*
+## run *pip install codewars-test-teey*
  
-To enable tests
+To enable tests on codewars problems
